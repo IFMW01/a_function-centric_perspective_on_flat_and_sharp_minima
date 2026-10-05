@@ -12,6 +12,7 @@ This paper revisits the role of minima geometry and generalisation. We show that
 
 The code base provides methods used to create the data presented in the paper ["A Function-Centric Perspective on Flat and Sharp Minima" by I. Mason-Williams, G. Mason-Williams and H. Yannakoudakis 2026.], which has been accepted in the Transactions on Machine Learning Research (https://openreview.net/forum?id=LV1ffpXXeV).
 
+Accompanying YouTube video: https://youtu.be/eUJ9pjukd2M
 
 If you use this codebase or insights from the paper, please cite our work using the following BibTeX:
 
