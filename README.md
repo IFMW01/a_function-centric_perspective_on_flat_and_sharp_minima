@@ -71,7 +71,7 @@ For main_sharp.py the arguemnts and their valid arguments can be understood as f
 
 ## Documentation
 
-For the exact configuration of each high-dimensional experiment please see the TMLR ppaer.
+For the exact configuration of each high-dimensional experiment please see the TMLR paper.
 
 ## Extra information
 
